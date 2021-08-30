@@ -1,0 +1,43 @@
+/***
+** Aglae 4 - Depot MSE
+** Version imprimable du DSE
+** 26/11/2018
+***/
+@media print {
+	@page {
+		margin: 0;
+	}
+	body {
+		margin: 1.2cm;
+		padding: 0;
+	}
+	main.container{
+		max-width: 100%;
+	}
+	#entete {
+		text-align: center;
+		vertical-align: middle;
+		display: initial;
+	}
+	#entete span {
+		margin-left: 30pt;
+		font-size: 28pt;
+	}
+	#btn-impression {
+		display: none;
+	}
+	main .card {
+		margin-top: 1.2cm;
+		display: block;
+		border: 0;
+	}
+	.footer {
+		display: none;
+	}
+	.affichage {
+		page-break-inside: avoid;
+	}
+	.affichage h5{
+		padding-top: 1em;
+	}
+}

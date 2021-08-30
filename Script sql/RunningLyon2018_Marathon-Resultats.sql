@@ -1,0 +1,32 @@
+INSERT INTO Resultat VALUES (2018000000,1.0,'Dupont','Alice','F'
+,3,7);
+INSERT INTO Resultat VALUES (2018000001,2.0,'Durand','Celine','F'
+,3,7);
+INSERT INTO Resultat VALUES (2018000002,3.0,'UHD','PNA','H'
+,3,7);
+INSERT INTO Resultat VALUES (2018000003,4.0,'GAA','YHU','H'
+,3,7);
+INSERT INTO Resultat VALUES (2018000004,5.0,'Plios','Caroline','F'
+,3,7);
+INSERT INTO Resultat VALUES (2018000005,6.0,'PTC','TOK','H'
+,3,7);
+INSERT INTO Resultat VALUES (2018000006,7.0,'GMY','ULH','H'
+,3,7);
+INSERT INTO Resultat VALUES (2018000007,8.0,'QWO','LFH','H'
+,3,7);
+INSERT INTO Resultat VALUES (2018000008,9.0,'Durad','Louis','H'
+,3,7);
+INSERT INTO Resultat VALUES (2018000009,10.0,'Durand','Olivier','H'
+,3,7);
+INSERT INTO Resultat VALUES (2018000010,11.0,'Drad','Louise','F'
+,3,7);
+INSERT INTO Resultat VALUES (2018000011,12.0,'Roli','Lou','F'
+,3,7);
+INSERT INTO Resultat VALUES (2018000012,13.0,'WNL','ZOV','F'
+,3,7);
+INSERT INTO Resultat VALUES (2018000013,14.0,'Tuile','Mathilde','F'
+,3,7);
+INSERT INTO Resultat VALUES (2018000014,15.0,'Roula','Celine','F'
+,3,7);
+INSERT INTO Resultat VALUES (2018000045,NULL,'Paso','Bruno','H'
+,3,7);

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css" media="all"/>
+    <title>Page d'acceuil</title>
+  </head>
+  <body>
+    <h1>Bienvenue sur le site de l'association </h1>
+    <img src= "../Grammond.png" >
+    <p>
+
+      Pour accéder à votre compte, veuillez rentrer vos identifiants</p>
+    <div class="connexion">
+      <form method="post" action="traitement.php">
+     <p>
+         <label for="pseudo">Votre pseudo :</label>
+         <input type="text" name="pseudo" id="pseudo" />
+         <br />
+         <label for="pass">Votre mot de passe :</label>
+         <input type="password" name="pass" id="pass" />
+         <br/>
+         <input type="submit" name="valider" value="Valider">
+     </p>
+  </form>
+    </div>
+  </body>
+</html>

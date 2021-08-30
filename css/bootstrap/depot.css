@@ -1,0 +1,144 @@
+/***
+** Aglae 4 - Depot MSE
+** 04/09/2018
+***/
+html {
+	position: relative;
+	min-height: 100%;
+}
+
+body {
+	padding-top: 6rem; /* Espace pour le menu fixé */
+	margin-bottom: 60px;
+}
+
+body>.container {
+	padding: 2rem 2rem 5rem;
+}
+
+#crous {
+	max-height: 5rem;
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	/* Hauteur fixée du pied de page */
+	height: 3rem;
+	line-height: 50px; /* Centrer le texte verticalement */
+	background-color: #f5f5f5;
+}
+
+.footer>.container {
+	padding-right: 15px;
+	padding-left: 15px;
+}
+
+.progress {
+	margin-bottom: 1.5rem;
+}
+
+#conditions {
+/*	overflow: auto;
+ 	height: 40rem;  */
+}
+
+.btn-form {
+	margin-top: 1.5rem;
+}
+
+.voeu {
+	margin-bottom: 1.5rem;
+}
+
+.outils-voeu {
+	float: right;
+}
+
+.suppr {
+	color: red;
+}
+
+.outils-voeu>a>.oi {
+	margin-left: 15px;
+}
+
+.upload-drop-zone {
+	height: 200px;
+	border-width: 2px;
+	margin-bottom: 20px;
+}
+
+.upload-drop-zone {
+	color: #ccc;
+	border-style: dashed;
+	border-color: #ccc;
+	line-height: 200px;
+	text-align: center;
+}
+
+.upload-drop-zone.drop {
+	color: #222;
+	border-color: #222;
+}
+
+.asterisk {
+ vertical-align: top;
+ float: none;
+ font-size: 14px;
+/*  color:#ff0000;  */
+ font-weight:bold;
+}
+
+.bleu {
+	color: blue;
+}
+
+.info-parents {
+	font-style: italic;
+	font-size: 0.7em;
+}
+
+.exposant {
+	vertical-align: super;
+    font-size: 0.7em;
+}
+
+.souligne {
+	text-decoration: underline;
+}
+
+.ibanexistant {
+	font-style: italic;
+}
+
+.oi {
+	padding-right: 7px;
+}
+
+.separation {
+	border-left: 3px solid #cacaca;
+	padding-left: 1em!important;
+	margin-left: 1em;
+}
+
+#tableauFratrie .thead-dark th {
+	text-align: center;
+	vertical-align: middle;
+}
+
+#entete {
+	display: none;
+}
+
+.affichage h5{
+	padding-top: 1em;
+	font-weight: bold;
+}
+
+#terminer{
+	font-weight: bold;
+	color: red;
+	font-size: 1.0em;
+}
